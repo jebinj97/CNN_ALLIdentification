@@ -1,3 +1,3 @@
 # CNN_ALLIdentification
 
-Download Dataset from [here](https://drive.google.com/drive/folders/1tDfCszj3qeKjCBHg9rBU_iEbCJDOsUBI?usp=sharing)
+Download Dataset from [here](https://drive.google.com/file/d/1cucQA8oiwO38fHcNDca43-JfGilLKYPh/view?usp=sharing)
